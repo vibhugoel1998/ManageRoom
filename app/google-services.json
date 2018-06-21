@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "616256252192",
+    "firebase_url": "https://roommanager1-c9b00.firebaseio.com",
+    "project_id": "roommanager1-c9b00",
+    "storage_bucket": "roommanager1-c9b00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616256252192:android:e8f03847c143f043",
+        "android_client_info": {
+          "package_name": "com.example.vbhw5926.manageroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616256252192-4et17hdv3a5qfeeaue2apeocjiidalte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vbhw5926.manageroom",
+            "certificate_hash": "6e4cc66a9982200a3a203e98a1206bb9984eccfb"
+          }
+        },
+        {
+          "client_id": "616256252192-jse0fer91emq5hoihsfhj95364t90a6b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "616256252192-jse0fer91emq5hoihsfhj95364t90a6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_EXSKL4TYR9r-nq7i-2Q2OWPqD0YB4kM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616256252192-jse0fer91emq5hoihsfhj95364t90a6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616256252192:android:55cf8789d40259b5",
+        "android_client_info": {
+          "package_name": "com.example.vbhw5926.roommanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616256252192-adnp34sj15vp37fd8482emgcvo6mc6rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vbhw5926.roommanager",
+            "certificate_hash": "6e4cc66a9982200a3a203e98a1206bb9984eccfb"
+          }
+        },
+        {
+          "client_id": "616256252192-jse0fer91emq5hoihsfhj95364t90a6b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "616256252192-jse0fer91emq5hoihsfhj95364t90a6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_EXSKL4TYR9r-nq7i-2Q2OWPqD0YB4kM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616256252192-jse0fer91emq5hoihsfhj95364t90a6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616256252192:android:4b86efca55d360e1",
+        "android_client_info": {
+          "package_name": "com.example.vibhu.roommanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616256252192-6i0du4t75e19ftmg2eaf9on0aptlo78n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vibhu.roommanager",
+            "certificate_hash": "34297e5f53951cbacd2b37741b7ae5f2c13dd96b"
+          }
+        },
+        {
+          "client_id": "616256252192-jse0fer91emq5hoihsfhj95364t90a6b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "616256252192-jse0fer91emq5hoihsfhj95364t90a6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_EXSKL4TYR9r-nq7i-2Q2OWPqD0YB4kM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616256252192-jse0fer91emq5hoihsfhj95364t90a6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
